@@ -1,0 +1,39 @@
+small {
+    color: red;
+    /* padding: 5px; */
+}
+
+#logout {
+    border: 1px solid rgba(0, 0, 0, 0.193);
+        padding: 3px 5px;
+        border-radius: 5px;
+        /* color: black; */
+}
+
+#logout:hover{
+    background-color:rgba(255, 0, 0, 0.145);
+    /* color: black; */
+}
+
+#dashboard-name{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding:5px 15px;
+    border-radius: 5px;
+}
+#updateID {
+    display: none;
+}
+
+h5, h5 input[type=date]{
+    color: blue;
+}
+
+th{
+    color: black;
+    font-weight: bolder;
+}
+
+
+
+
+
